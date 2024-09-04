@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "operacoesbasicasteste.h": "c",
+        "operacoesexab.h": "c",
+        "stdlib.h": "c",
+        "abporniveis.h": "c",
+        "operacoesbasicasfilaab.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
